@@ -1,0 +1,52 @@
+.member-txt{
+    font-size: 20px;
+    top: 10px;
+    font-weight: 100;
+}
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+.imagen1{
+    background: url(../props/1.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen2{
+    background: url(../props/2.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen3{
+    background: url(../props/3.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen4{
+    background: url(../props/4.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen5{
+    background: url(../props/5.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen6{
+    background: url(../props/6.jpg);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen7{
+    background: url(../props/c-plus.png);
+    background-position: center;
+    background-size: 60px;
+}
+.imagen8{
+    background: url(../props/c-sharp.png);
+    background-position: center;
+    background-size: 60px;
+}
