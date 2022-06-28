@@ -32,11 +32,11 @@ function Home(){
 
             <h2><span>About Me</span><br />
                 <p className='aboutme mt-5'>
-                Hello! My name is Raquel Gutierrez and I'm a Saltillo Coah Mex-based
+                Hello! My name is Raquel Gutierrez and I'm a Mexico-based
                 developer. If I'm not freelancing at some projects,
                 I'm working remotely on projects or hybrid mode. 
                 I have a diverse set of skills, ranging from Design, to HTML + CSS + Javascript,
-                all the way to PHP, custom pages development using some Frameworks.
+                all the way to PHP, custom pages development using some Frameworks and React projects.
                 </p>
             </h2>
 
