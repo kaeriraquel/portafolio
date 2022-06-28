@@ -36,7 +36,10 @@
     z-index: 5;
     cursor: pointer;
 }
-
+.home-container .logo:hover{
+    filter: brightness(50%);
+    cursor: pointer;
+}
 .home-container .logo .main-img.active{
     animation: spin 8s linear 1s infinite;
 }
@@ -153,7 +156,7 @@
     justify-content: center;
     align-items: center;
     max-width: 60%;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .home-container h2 span{

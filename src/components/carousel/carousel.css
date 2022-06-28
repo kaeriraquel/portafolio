@@ -2,6 +2,18 @@
     font-size: 20px;
     top: 10px;
     font-weight: 100;
+} 
+h1{
+    margin: 0 auto;
+    font-size: 22px;
+    font-family: 'Open Sans Condensed';
+    font-weight: 400;
+    color: var(--color-pri);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
 }
 .App {
     font-family: sans-serif;
@@ -11,42 +23,104 @@
     height: 100vh;
   }
 .imagen1{
-    background: url(../props/1.jpg);
+    background: url(../props/imagesprojects/1.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
+
+    /* background-size: contain; */
 }
 .imagen2{
-    background: url(../props/2.jpg);
+    background: url(../props/imagesprojects/2.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen3{
-    background: url(../props/3.jpg);
+    background: url(../props/imagesprojects/3.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen4{
-    background: url(../props/4.jpg);
+    background: url(../props/imagesprojects/4.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen5{
-    background: url(../props/5.jpg);
+    background: url(../props/imagesprojects/5.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen6{
-    background: url(../props/6.jpg);
+    background: url(../props/imagesprojects/6.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen7{
-    background: url(../props/c-plus.png);
+    background: url(../props/imagesprojects/7.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
 }
 .imagen8{
-    background: url(../props/c-sharp.png);
+    background: url(../props/imagesprojects/8.png);
     background-position: center;
-    background-size: 60px;
+    background-size: contain;
+}
+.imagen9{
+    background: url(../props/imagesprojects/9.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen10{
+    background: url(../props/imagesprojects/10.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen11{
+    background: url(../props/imagesprojects/11.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen12{
+    background: url(../props/imagesprojects/12.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen13{
+    background: url(../props/imagesprojects/13.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen15{
+    background: url(../props/imagesprojects/15.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen16{
+    background: url(../props/imagesprojects/16.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen17{
+    background: url(../props/imagesprojects/17.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen18{
+    background: url(../props/imagesprojects/18.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen19{
+    background: url(../props/imagesprojects/19.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen20{
+    background: url(../props/imagesprojects/20.png);
+    background-position: center;
+    background-size: contain;
+}
+.imagen21{
+    background: url(../props/imagesprojects/21.png);
+    background-position: center;
+    background-size: contain;
 }

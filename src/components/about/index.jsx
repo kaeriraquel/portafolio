@@ -4,7 +4,7 @@ import Slider from '../carousel/carousel'
 function About(){
     return(
         
-        <div id='about' className="container about-container">
+        <div id='projects' className="container about-container">
             <Slider /> 
         </div>
     )

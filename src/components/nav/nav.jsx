@@ -5,7 +5,7 @@ import {TiGroupOutline} from 'react-icons/ti'
 import {BiMessageRoundedDots} from 'react-icons/bi'
 import {BsArrowDownCircle} from 'react-icons/bs'
 
-function Navbar(){
+function Navbar(){ 
     return(
         <div className="navigation">
             <a href="#home">
@@ -14,7 +14,7 @@ function Navbar(){
             <a href="#about">
                 <AiOutlineUser className='icon' />
             </a>
-            <a href="#members">
+            <a href="#projects">
                 <TiGroupOutline className='icon' />
             </a>
             <a href="#contact">
