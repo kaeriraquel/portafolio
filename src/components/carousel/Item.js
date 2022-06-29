@@ -11,4 +11,5 @@ export default styled.div`
   margin: 0 15px;
   font-size: 4em;
   flex-direction: column;
+  border-radius: 20px;
 `; 

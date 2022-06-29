@@ -3,6 +3,29 @@
     top: 10px;
     font-weight: 100;
 } 
+.parrafo{
+    opacity: .5;
+  background-color: rgb(0, 0, 0);
+  height: 100px;
+  width: auto 0;
+display: flex;
+align-content: flex-end;
+align-items: flex-end;
+justify-content: center;
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  /* margin-bottom: -400px;*/
+  margin-top: 180%;
+  padding-bottom: 40px; 
+}
+.parrafo:hover{
+    cursor: pointer;
+    background-color: rgb(4, 3, 93);
+    color: #fff;
+}
+
 h1{
     margin: 0 auto;
     font-size: 22px;
@@ -25,102 +48,183 @@ h1{
 .imagen1{
     background: url(../props/imagesprojects/1.png);
     background-position: center;
-    background-size: contain;
-
+    background-size: contain;    
     /* background-size: contain; */
+
+}
+.imagen1::before{
+    transition: all .3s;
+}
+.imagen1:hover:before{
+    background:rgba(0, 0, 0, .4) ;
+    z-index: 2;
+    transition: all .3s;
+}
+
+.imagen1:hover{
+    transform: scale(1.1);
+  
 }
 .imagen2{
     background: url(../props/imagesprojects/2.png);
     background-position: center;
     background-size: contain;
 }
+.imagen2::before{
+    transition: all .3s;
+}
+.imagen2:hover:before{
+    background:rgba(0, 0, 0, .4) ;
+    z-index: 2;
+    transition: all .3s;
+}
+
+.imagen2:hover{
+    transform: scale(1.1);
+  
+}
 .imagen3{
     background: url(../props/imagesprojects/3.png);
     background-position: center;
-    background-size: contain;
+    background-size:200%;
+}
+.imagen3:hover{
+    transform: scale(1.1);
 }
 .imagen4{
+    
     background: url(../props/imagesprojects/4.png);
     background-position: center;
-    background-size: contain;
+    background-size:200%;
+}
+.imagen4:hover{
+    transform: scale(1.1);
 }
 .imagen5{
     background: url(../props/imagesprojects/5.png);
     background-position: center;
-    background-size: contain;
+    background-size: 199%;
+}
+.imagen5:hover{
+    transform: scale(1.1);
 }
 .imagen6{
     background: url(../props/imagesprojects/6.png);
     background-position: center;
-    background-size: contain;
+    background-size: 150%;
+}
+.imagen6:hover{
+    transform: scale(1.1);
 }
 .imagen7{
     background: url(../props/imagesprojects/7.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen7:hover{
+    transform: scale(1.1);
 }
 .imagen8{
     background: url(../props/imagesprojects/8.png);
     background-position: center;
     background-size: contain;
 }
+.imagen8:hover{
+    transform: scale(1.1);
+}
 .imagen9{
     background: url(../props/imagesprojects/9.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen9:hover{
+    transform: scale(1.1);
 }
 .imagen10{
     background: url(../props/imagesprojects/10.png);
     background-position: center;
     background-size: contain;
 }
+.imagen10:hover{
+    transform: scale(1.1);
+}
 .imagen11{
     background: url(../props/imagesprojects/11.png);
     background-position: center;
-    background-size: contain;
+    background-size: 190%;
+}
+.imagen11:hover{
+    transform: scale(1.1);
 }
 .imagen12{
     background: url(../props/imagesprojects/12.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen12:hover{
+    transform: scale(1.1);
 }
 .imagen13{
     background: url(../props/imagesprojects/13.png);
     background-position: center;
-    background-size: contain;
+    background-size: 110%;
+}
+.imagen13:hover{
+    transform: scale(1.1);
 }
 .imagen15{
     background: url(../props/imagesprojects/15.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen15:hover{
+    transform: scale(1.1);
 }
 .imagen16{
     background: url(../props/imagesprojects/16.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen16:hover{
+    transform: scale(1.1);
 }
 .imagen17{
     background: url(../props/imagesprojects/17.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
+}
+.imagen17:hover{
+    transform: scale(1.1);
 }
 .imagen18{
     background: url(../props/imagesprojects/18.png);
     background-position: center;
-    background-size: contain;
+    background-size: 100%;
+}
+.imagen18:hover{
+    transform: scale(1.1);
 }
 .imagen19{
     background: url(../props/imagesprojects/19.png);
     background-position: center;
-    background-size: contain;
+    background-size: 150%;
+}
+.imagen19:hover{
+    transform: scale(1.1);
 }
 .imagen20{
     background: url(../props/imagesprojects/20.png);
     background-position: center;
     background-size: contain;
 }
+.imagen20:hover{
+    transform: scale(1.1);
+}
 .imagen21{
     background: url(../props/imagesprojects/21.png);
     background-position: center;
-    background-size: contain;
+    background-size: 190%;
+}
+.imagen21:hover{
+    transform: scale(1.1);
 }
