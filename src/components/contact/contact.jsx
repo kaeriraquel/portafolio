@@ -13,9 +13,9 @@ function Contact(){
                     <h2>LinkedIn</h2>
                 </a>
 
-                <a href="https://wa.me/8444598594" className="contact whatsapp">
+                <a href="https://wa.me/528444598594?text=Hola!%20Raquel%20,%20buen%20día!." className="contact whatsapp">
                     <AiOutlineWhatsApp className="icon" />
-                    <h2>WhatsApp <span>844-459-8597</span></h2>
+                    <h2>WhatsApp <span>+52 844-459-8594</span></h2>
                 </a>
 
                 <a href="https://github.com/kaeriraquel/PROYECTOS-WEB.git" className="contact instagram">
