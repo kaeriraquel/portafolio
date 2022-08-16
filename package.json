@@ -2,7 +2,7 @@
   "name": "portafolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kaeriraquel.github.io/portafolio",
+  "homepage": "http://kaeriraquel.github.io/portfolio",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@testing-library/jest-dom": "^5.16.4",
