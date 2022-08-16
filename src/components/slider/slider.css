@@ -1,0 +1,36 @@
+.item{
+    height: 70rem;
+    min-width: 25rem;
+    padding: 0;
+    
+}
+
+.item p{
+    background:rgba(0,0,0,.3);
+    position: absolute;
+    width: 35%;
+    padding: 10px 60px;
+    text-align: center;
+    bottom: 0;
+}
+.item img{
+    height: 80%;
+    width: 65%;
+    pointer-events: none;
+    border-radius: 15px;
+    background-size: contain;
+    background-position: center;
+}
+.slider{
+    display: flex;
+    cursor: grab;
+}
+.slider-container{
+    border-radius: 15px;
+    height: 85%;
+    width: 70%;
+    margin: 0 auto;
+    overflow-x: hidden;
+    overflow-y: hidden ; 
+    background-position: center;
+}

@@ -1,0 +1,180 @@
+.member-txt{
+    font-size: 20px;
+    top: 10px;
+    font-weight: 100;
+} 
+.parrafo{
+    opacity: .5;
+  background-color: rgb(0, 0, 0);
+  height: 100px;
+  width: auto 0;
+display: flex;
+align-content: flex-end;
+align-items: flex-end;
+justify-content: center;
+  color: #fff;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  /* margin-bottom: -400px;*/
+  margin-top: 180%;
+  padding-bottom: 40px; 
+}
+.parrafo:hover{
+    cursor: pointer;
+    background-color: rgb(4, 3, 93);
+    color: #fff;
+}
+
+h1{
+    margin: 0 auto;
+    font-size: 22px;
+    font-family: 'Open Sans Condensed';
+    font-weight: 400;
+    color: var(--color-pri);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+.imagen1{
+    background: url(../props/imagesprojects/1.png);
+    background-position: center;
+    background-size: contain;    
+    /* background-size: contain; */
+
+}
+
+.imagen2{
+    background: url(../props/imagesprojects/2.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.imagen3{
+    background: url(../props/imagesprojects/3.png);
+    background-position: center;
+    background-size:200%;
+}
+
+.imagen4{
+    
+    background: url(../props/imagesprojects/4.png);
+    background-position: center;
+    background-size:200%;
+}
+
+.imagen5{
+    background: url(../props/imagesprojects/5.png);
+    background-position: center;
+    background-size: 199%;
+}
+
+.imagen6{
+    background: url(../props/imagesprojects/6.png);
+    background-position: center;
+    background-size: 150%;
+}
+
+.imagen7{
+    background: url(../props/imagesprojects/7.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen8{
+    background: url(../props/imagesprojects/8.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.imagen9{
+    background: url(../props/imagesprojects/9.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen10{
+    background: url(../props/imagesprojects/10.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.imagen11{
+    background: url(../props/imagesprojects/11.png);
+    background-position: center;
+    background-size: 190%;
+}
+
+.imagen12{
+    background: url(../props/imagesprojects/12.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen13{
+    background: url(../props/imagesprojects/13.png);
+    background-position: center;
+    background-size: 110%;
+}
+
+.imagen15{
+    background: url(../props/imagesprojects/15.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen16{
+    background: url(../props/imagesprojects/16.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen17{
+    background: url(../props/imagesprojects/17.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen18{
+    background: url(../props/imagesprojects/18.png);
+    background-position: center;
+    background-size: 100%;
+}
+
+.imagen19{
+    background: url(../props/imagesprojects/19.png);
+    background-position: center;
+    background-size: 150%;
+}
+
+.imagen20{
+    background: url(../props/imagesprojects/20.png);
+    background-position: center;
+    background-size: contain;
+}
+
+.imagen21{
+    background: url(../props/imagesprojects/21.png);
+    background-position: center;
+    background-size: 190%;
+}
+.modal{
+    background-color: rgba(0, 0, 0, 0.45);
+    max-height: 100%;
+}
+.modal-content{
+    margin-top: 50%;
+}
+
+.imagen-style{
+    width: 200%;
+}

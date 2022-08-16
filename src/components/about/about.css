@@ -1,0 +1,20 @@
+.about-container{
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    min-height: 80vh;
+    margin-top: 40px;
+    padding: 50px;
+    overflow-x: hidden;
+    backdrop-filter: blur(20px);
+}
+.project-container h1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Open Sans Condensed';
+    font-weight: 400;
+    color: var(--color-pri);
+    margin-bottom: 20px;
+  }
